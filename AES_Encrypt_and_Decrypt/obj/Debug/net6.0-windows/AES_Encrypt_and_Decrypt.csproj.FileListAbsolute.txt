@@ -1,0 +1,17 @@
+D:\正在试验！\AES_Encrypt_and_Decrypt\AES_Encrypt_and_Decrypt\bin\Debug\net6.0-windows\AES_Encrypt_and_Decrypt.exe
+D:\正在试验！\AES_Encrypt_and_Decrypt\AES_Encrypt_and_Decrypt\bin\Debug\net6.0-windows\AES_Encrypt_and_Decrypt.deps.json
+D:\正在试验！\AES_Encrypt_and_Decrypt\AES_Encrypt_and_Decrypt\bin\Debug\net6.0-windows\AES_Encrypt_and_Decrypt.runtimeconfig.json
+D:\正在试验！\AES_Encrypt_and_Decrypt\AES_Encrypt_and_Decrypt\bin\Debug\net6.0-windows\AES_Encrypt_and_Decrypt.dll
+D:\正在试验！\AES_Encrypt_and_Decrypt\AES_Encrypt_and_Decrypt\bin\Debug\net6.0-windows\AES_Encrypt_and_Decrypt.pdb
+D:\正在试验！\AES_Encrypt_and_Decrypt\AES_Encrypt_and_Decrypt\obj\Debug\net6.0-windows\AES_Encrypt_and_Decrypt.csproj.AssemblyReference.cache
+D:\正在试验！\AES_Encrypt_and_Decrypt\AES_Encrypt_and_Decrypt\obj\Debug\net6.0-windows\AES_Encrypt_and_Decrypt.Form1.resources
+D:\正在试验！\AES_Encrypt_and_Decrypt\AES_Encrypt_and_Decrypt\obj\Debug\net6.0-windows\AES_Encrypt_and_Decrypt.csproj.GenerateResource.cache
+D:\正在试验！\AES_Encrypt_and_Decrypt\AES_Encrypt_and_Decrypt\obj\Debug\net6.0-windows\AES_Encrypt_and_Decrypt.GeneratedMSBuildEditorConfig.editorconfig
+D:\正在试验！\AES_Encrypt_and_Decrypt\AES_Encrypt_and_Decrypt\obj\Debug\net6.0-windows\AES_Encrypt_and_Decrypt.AssemblyInfoInputs.cache
+D:\正在试验！\AES_Encrypt_and_Decrypt\AES_Encrypt_and_Decrypt\obj\Debug\net6.0-windows\AES_Encrypt_and_Decrypt.AssemblyInfo.cs
+D:\正在试验！\AES_Encrypt_and_Decrypt\AES_Encrypt_and_Decrypt\obj\Debug\net6.0-windows\AES_Encrypt_and_Decrypt.csproj.CoreCompileInputs.cache
+D:\正在试验！\AES_Encrypt_and_Decrypt\AES_Encrypt_and_Decrypt\obj\Debug\net6.0-windows\AES_Encrypt_and_Decrypt.dll
+D:\正在试验！\AES_Encrypt_and_Decrypt\AES_Encrypt_and_Decrypt\obj\Debug\net6.0-windows\refint\AES_Encrypt_and_Decrypt.dll
+D:\正在试验！\AES_Encrypt_and_Decrypt\AES_Encrypt_and_Decrypt\obj\Debug\net6.0-windows\AES_Encrypt_and_Decrypt.pdb
+D:\正在试验！\AES_Encrypt_and_Decrypt\AES_Encrypt_and_Decrypt\obj\Debug\net6.0-windows\AES_Encrypt_and_Decrypt.genruntimeconfig.cache
+D:\正在试验！\AES_Encrypt_and_Decrypt\AES_Encrypt_and_Decrypt\obj\Debug\net6.0-windows\ref\AES_Encrypt_and_Decrypt.dll

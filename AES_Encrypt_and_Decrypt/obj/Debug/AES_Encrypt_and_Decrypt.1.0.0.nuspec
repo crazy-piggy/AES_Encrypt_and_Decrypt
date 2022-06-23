@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>AES_Encrypt_and_Decrypt</id>
+    <version>1.0.0</version>
+    <authors>AES_Encrypt_and_Decrypt</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0-windows7.0" />
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net6.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="D:\正在试验！\AES_Encrypt_and_Decrypt\AES_Encrypt_and_Decrypt\bin\Debug\net6.0-windows\AES_Encrypt_and_Decrypt.runtimeconfig.json" target="lib\net6.0-windows7.0\AES_Encrypt_and_Decrypt.runtimeconfig.json" />
+    <file src="D:\正在试验！\AES_Encrypt_and_Decrypt\AES_Encrypt_and_Decrypt\bin\Debug\net6.0-windows\AES_Encrypt_and_Decrypt.dll" target="lib\net6.0-windows7.0\AES_Encrypt_and_Decrypt.dll" />
+  </files>
+</package>
